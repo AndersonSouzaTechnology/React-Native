@@ -1,5 +1,5 @@
 {
-  "name": "meuapp",
+  "name": "appdesafio",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,15 +11,13 @@
   "dependencies": {
     "@react-native-community/slider": "^4.5.7",
     "@react-native-picker/picker": "^2.11.1",
-    "expo": "~53.0.13",
+    "expo": "~53.0.17",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.4"
+    "react-native": "0.79.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0",
-    "typescript": "~5.8.3",
-    "@types/react": "~19.0.10"
+    "@babel/core": "^7.20.0"
   },
   "private": true
 }
